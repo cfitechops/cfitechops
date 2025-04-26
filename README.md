@@ -21,3 +21,7 @@
 <h3>Concevoir et mettre en œuvre une solution en réponse à un besoin d’évolution</h3>
 <p>Créer des solutions techniques personnalisées répondant aux besoins d’évolution de l’infrastructure.</p>
 <p>Utiliser des outils tels <b>qu’Elasticsearch, Logstash et Kibana</b> pour optimiser la supervision et l’analyse des données.</p>
+
+<h3>Participer à la gestion de la cybersécurité</h3>
+<p>Évaluer et analyser la sécurité de l’infrastructure avec des outils comme <b>Kali Linux et Wazuh</b>.</p>
+<p>Mettre en place des politiques de sécurité en suivant l’approche EBIOS RM et gérer les incidents de sécurité avec<b> Suricata ou Snort.</b></p>
