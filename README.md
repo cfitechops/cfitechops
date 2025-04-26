@@ -5,7 +5,7 @@
 <p>Assurer le support utilisateur en centre de services avec des outils tels que GLPI.</p>
 <p>Exploiter des <b>serveurs Windows et un domaine Active Directory</b> pour gérer les environnements utilisateurs.</p>
 <p>Exploiter des <b>serveurs Linux</b> et gérer leurs configurations.</p>
-<p>Exploiter un réseau IP pour garantir la connectivité des systèmes.</p>
+<p>Exploiter un <b>réseau IP</b> pour garantir la connectivité des systèmes.</p>
 
 <h3>MAINTENIR L’INFRASTRUCTURE ET CONTRIBUER À SON ÉVOLUTION ET À SA SÉCURISATION</h3>
 <p>Maintenir les <b>serveurs</b> dans une infrastructure virtualisée en utilisant des outils comme Oracle <b>VirtualBox</b> et <b>Proxmox VE</b>.</p>
