@@ -14,7 +14,7 @@
 <p>Mettre en place, assurer et tester les sauvegardes et restaurations des éléments de l’infrastructure.</p>
 <p>Exploiter et maintenir les services de déploiement des postes de travail, notamment à l’aide de WDS.</p>
 
-<p>Administrer et sécuriser les infrastructures</p>
+<h3>Administrer et sécuriser les infrastructures</h3>
 <p>Assurer la gestion <b>sécurisée des réseaux et des systèmes</b> en maîtrisant les environnements <b>Linux et Windows</b>.</p>
 <p>Plonger dans les infrastructures virtualisées avec <b>Proxmox VE</b> et <b>Docker</b>, tout en appliquant des compétences avancées en administration et sécurité</p>
 
