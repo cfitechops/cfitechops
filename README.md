@@ -9,7 +9,7 @@
 
 <h3>MAINTENIR L’INFRASTRUCTURE ET CONTRIBUER À SON ÉVOLUTION ET À SA SÉCURISATION</h3>
 <p>Maintenir les serveurs dans une infrastructure virtualisée en utilisant des outils comme Oracle <b>VirtualBox</b> et <b>Proxmox VE</b>.</p>
-<p>Automatiser les tâches grâce à des scripts Bash et PowerShell.</p>
+<p>Automatiser les tâches grâce à des <b>scripts Bash</b> et <b>PowerShell.</b></p>
 <p>Maintenir et sécuriser les accès à Internet et gérer les interconnexions des réseaux via des solutions telles que <b>pfSense.</b></p>
 <p>Mettre en place, assurer et tester les sauvegardes et restaurations des éléments de l’infrastructure.</p>
 <p>Exploiter et maintenir les services de déploiement des postes de travail, notamment à l’aide de WDS.</p>
