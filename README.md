@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=1000&height=70&duration=6000&lines=CFITECH+👋;+Web+Developer+and+Administrator+System/+Network;" />
 </h3>
 <h3><b>EXPLOITER LES ÉLÉMENTS DE L’INFRASTRUCTURE ET ASSURER LE SUPPORT AUX UTILISATEURS:</b></h3>
-<p>Assurer le support utilisateur en centre de services avec des outils tels que GLPI.</p>
+<p>Assurer le support utilisateur en centre de services avec des outils tels que <b>GLPI</b>.</p>
 <p>Exploiter des <b>serveurs Windows et un domaine Active Directory</b> pour gérer les environnements utilisateurs.</p>
 <p>Exploiter des <b>serveurs Linux</b> et gérer leurs configurations.</p>
 <p>Exploiter un <b>réseau IP</b> pour garantir la connectivité des systèmes.</p>
