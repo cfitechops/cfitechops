@@ -16,9 +16,9 @@
 
 <h3>Administrer et sécuriser les infrastructures</h3>
 <p>Assurer la gestion <b>sécurisée des réseaux et des systèmes</b> en maîtrisant les environnements <b>Linux et Windows</b>.</p>
-<p>Plonger dans les infrastructures virtualisées avec <b>Proxmox VE</b> et <b>Docker</b>, tout en appliquant des compétences avancées en administration et sécurité</p>
+<p>Plonger dans les infrastructures virtualisées avec <b>Proxmox VE</b> et <b>Docker</b>, tout en appliquant des compétences avancées en administration et sécurité.</p>
 
-<h3>Concevoir et mettre en œuvre une solution en réponse à un besoin d’évolution</h3>
+<h3>Concevoir et mettre en œuvre une solution en réponse à un besoin d’évolution.</h3>
 <p>Créer des solutions techniques personnalisées répondant aux besoins d’évolution de l’infrastructure.</p>
 <p>Utiliser des outils tels <b>qu’Elasticsearch, Logstash et Kibana</b> pour optimiser la supervision et l’analyse des données.</p>
 
