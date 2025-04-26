@@ -15,7 +15,7 @@
 <p>Exploiter et maintenir les services de déploiement des postes de travail, notamment à l’aide de WDS.</p>
 
 <p>Administrer et sécuriser les infrastructures</p>
-<p>Assurer la gestion sécurisée des réseaux et des systèmes en maîtrisant les environnements Linux et Windows.</p>
+<p>Assurer la gestion sécurisée des réseaux et des systèmes en maîtrisant les environnements <b>Linux et Windows</b>.</p>
 <p>Plonger dans les infrastructures virtualisées avec <b>Proxmox VE</b> et <b>Docker</b>, tout en appliquant des compétences avancées en administration et sécurité</p>
 
 <h3>Concevoir et mettre en œuvre une solution en réponse à un besoin d’évolution</h3>
