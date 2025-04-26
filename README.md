@@ -8,9 +8,9 @@
 <p>Exploiter un réseau IP pour garantir la connectivité des systèmes.</p>
 
 <h3>MAINTENIR L’INFRASTRUCTURE ET CONTRIBUER À SON ÉVOLUTION ET À SA SÉCURISATION</h3>
-<p>Maintenir les serveurs dans une infrastructure virtualisée en utilisant des outils comme Oracle VirtualBox et Proxmox VE.</p>
+<p>Maintenir les serveurs dans une infrastructure virtualisée en utilisant des outils comme Oracle <b>VirtualBox</b> et <b>Proxmox VE</b>.</p>
 <p>Automatiser les tâches grâce à des scripts Bash et PowerShell.</p>
-<p>Maintenir et sécuriser les accès à Internet et gérer les interconnexions des réseaux via des solutions telles que pfSense.</p>
+<p>Maintenir et sécuriser les accès à Internet et gérer les interconnexions des réseaux via des solutions telles que <b>pfSense.</b></p>
 <p>Mettre en place, assurer et tester les sauvegardes et restaurations des éléments de l’infrastructure.</p>
 <p>Exploiter et maintenir les services de déploiement des postes de travail, notamment à l’aide de WDS.</p>
 
@@ -20,4 +20,4 @@
 
 <h3>Concevoir et mettre en œuvre une solution en réponse à un besoin d’évolution</h3>
 <p>Créer des solutions techniques personnalisées répondant aux besoins d’évolution de l’infrastructure.</p>
-<p>Utiliser des outils tels qu’Elasticsearch, Logstash et Kibana pour optimiser la supervision et l’analyse des données.</p>
+<p>Utiliser des outils tels <b>qu’Elasticsearch, Logstash et Kibana</b> pour optimiser la supervision et l’analyse des données.</p>
